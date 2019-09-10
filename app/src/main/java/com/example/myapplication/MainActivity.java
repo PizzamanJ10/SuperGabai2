@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         
         // AKIVA WAS HERE
+        // and here
 
         button = findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {
